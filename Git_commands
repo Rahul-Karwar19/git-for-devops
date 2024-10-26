@@ -31,12 +31,12 @@ Reverts changes in the working directory for a specified file.
 
 Configure your user name globally:
 
-git config --global user.name "Rahul-Karwar19"
+git config --global user.name "<git-username>"
 Sets your global username for Git commits.
 
 Configure your email globally:
 
-git config --global user.email "jaid9898@gmail.com"
+git config --global user.email "<email address>"
 Sets your global email for Git commits.
 
 View commit history:
